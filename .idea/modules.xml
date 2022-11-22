@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LEARN_DATASTRUCTURE.iml" filepath="$PROJECT_DIR$/.idea/LEARN_DATASTRUCTURE.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linear Data Structure/Linear Data Structure.iml" filepath="$PROJECT_DIR$/Linear Data Structure/Linear Data Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P3ASM/P3ASM/P3ASM.iml" filepath="$PROJECT_DIR$/P3ASM/P3ASM/P3ASM.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab 1/lab 1.iml" filepath="$PROJECT_DIR$/lab 1/lab 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab 2/lab 2.iml" filepath="$PROJECT_DIR$/lab 2/lab 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab 3/lab 3.iml" filepath="$PROJECT_DIR$/lab 3/lab 3.iml" />
