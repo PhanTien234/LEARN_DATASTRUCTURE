@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../LEARN_DATASTRUCTUREy/Arra/Array/Array.iml" filepath="$PROJECT_DIR$/../LEARN_DATASTRUCTUREy/Arra/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LEARN_DATASTRUCTURE.iml" filepath="$PROJECT_DIR$/.idea/LEARN_DATASTRUCTURE.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linear Data Structure/Linear Data Structure.iml" filepath="$PROJECT_DIR$/Linear Data Structure/Linear Data Structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/P3ASM/P3ASM/P3ASM.iml" filepath="$PROJECT_DIR$/P3ASM/P3ASM/P3ASM.iml" />

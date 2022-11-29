@@ -36,6 +36,13 @@ public class Recursion {
             MoveDisk(n-1, TG, B, A); //3. Bung nguoc n-1 dia tu TG=>B, su dung A lam trung gian
         }
     }
+    int GCD(int a, int b){
+        if(b==0){
+            return a;
+        }else {
+            return GCD(b, a%b);
+        }
+    }
     public static void main(String[] args){
         Recursion R = new Recursion();
         int n = 1;
@@ -49,5 +56,7 @@ public class Recursion {
         System.out.println("Binary of "+ n +": ");
         R.Convert(n);
         R.MoveDisk(n, 'A', 'B', 'T');
+        int a = 15, b= 25;
+        System.out.printf("GCD(%d,%d) = %d",a, b, R.GCD(a,b));
     }
 }
